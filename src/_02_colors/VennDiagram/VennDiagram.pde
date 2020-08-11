@@ -1,1 +1,15 @@
 size(600,600);
+fill(255,0,0,100);
+ellipse(170,300,200,200);
+fill(0,255,0,100);
+ellipse(300,360,200,200);
+fill(0,0,255,100);
+ellipse(250,225,200,200);
+textSize(18);
+text("Energetic",110,320);
+textSize(18);
+text("Hard-Working",260,370);
+textSize(18);
+text("Agreeableness",210,200);
+textSize(10);
+text("Ambiverted",220,300);
